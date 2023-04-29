@@ -66,3 +66,9 @@ figure > img {
     border-radius: 50px;
     width: 90%;
 }
+
+figcaption {
+    color: #737373;
+    margin-top: 30px;
+    font-size: 24px;
+}

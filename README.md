@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<img src="img/Fiaplogo.jpg" alt="exemplo imagem" width=500>
+<img src="img/tech.jpg" alt="exemplo imagem" width=500>
 </p>
 
 > Repositório utilizado para a entrega do Checkpoint 2 de Responsive Web Development

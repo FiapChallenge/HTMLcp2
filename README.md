@@ -24,7 +24,6 @@
 | **Disciplina**   | Responsive Web Development            |
 | **Professor**    | Alexandre C. de Jesus                 |
 | **Turma**        | 1TDSS                                 |
-| **More Info**    | [Pdf do Checkpoint](pdf/cp1.pdf)      |
 
 <h2 name="autores">✍️ Integrantes</h2>
 <table>
